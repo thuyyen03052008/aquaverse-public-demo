@@ -1,0 +1,13 @@
+.auth-shell {min-height:100vh;display:grid;place-items:center;background:#eef5f5;padding:24px;color:#0f2e38}
+.auth-card {width:min(440px,100%);background:#fff;border:1px solid #cddede;border-radius:20px;padding:32px;box-shadow:0 20px 55px #123a441a;display:flex;flex-direction:column;gap:12px}
+.auth-brand {font-size:1.3rem;font-weight:800;color:#087d81;letter-spacing:.05em}
+.auth-card h1 {font-size:1.45rem;margin:6px 0 0}
+.auth-card p {color:#536a72;margin:0;line-height:1.55}
+.auth-card form {display:flex;flex-direction:column;gap:10px;margin-top:12px}
+.auth-card label {font-size:.9rem;font-weight:650}
+.auth-card input {font:inherit;background:#fff;color:#123a44;min-height:43px;border:1px solid #b6cdd1;border-radius:8px;padding:8px 12px}
+.auth-card button[type=submit] {border:0;border-radius:9px;background:#087d81;color:white;padding:12px;font:inherit;font-weight:700;cursor:pointer}
+.auth-card button:disabled {opacity:.65;cursor:wait}
+.auth-switch {background:none;border:0;color:#087d81;font:inherit;font-weight:600;cursor:pointer;text-decoration:underline;padding:10px}
+.auth-error {color:#b3261e!important;background:#fff2f1;border-radius:8px;padding:8px}
+.auth-card small {color:#657981;text-align:center}

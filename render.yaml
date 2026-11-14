@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: aquaverse-public-demo
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: AQUAVERSE_PUBLIC_DEMO
+        value: "1"
+      - key: AQUAVERSE_SECURE_COOKIES
+        value: "1"
+      - key: AQUAVERSE_ALLOW_SELF_SIGNUP
+        value: "0"
+      - key: AQUAVERSE_DATABASE_URL
+        value: sqlite:////tmp/aquaverse_public_demo.sqlite3

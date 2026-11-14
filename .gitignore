@@ -1,0 +1,22 @@
+# Secrets, private data, local files
+.env
+.env.*
+!.env.example
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+backend/data/
+backend/private_uploads/
+backend/uploads/
+backend/knowledge/imported/
+backend/data/mentor_semantic_index.json
+# Build/cache
+node_modules/
+dist/
+*.tsbuildinfo
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store

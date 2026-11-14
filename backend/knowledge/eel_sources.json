@@ -1,0 +1,174 @@
+[
+  {
+    "id": "VAAS-2018",
+    "species_id": "monopterus_albus",
+    "title": "Hiện trạng kỹ thuật và tài chính của mô hình nuôi lươn đồng thương phẩm",
+    "authors": "Phạm Minh Đức; Huỳnh Văn Hiền; Trần Thị Thanh Hiền",
+    "year": 2018,
+    "url": "https://tapchi.vaas.vn/vi/tap-chi/hien-trang-ky-thuat-va-tai-chinh-cua-mo-hinh-nuoi-luon-dong-monopterus-albus-thuong-pham",
+    "context": "Khảo sát 60 hộ ở An Giang và Cần Thơ, dữ liệu thu thập năm 2016; giai đoạn thương phẩm.",
+    "passages": [
+      {
+        "id": "VAAS-FCR",
+        "topic": "hệ số chuyển đổi thức ăn FCR hiệu quả kinh tế",
+        "text": "Trong khảo sát 60 hộ nuôi lươn đồng thương phẩm, FCR và diện tích bể là những biến có liên hệ với sự khác nhau về năng suất. FCR còn liên quan đến mức biến động lợi nhuận. Đây là kết quả quan sát và hồi quy từ một mẫu hộ nuôi, không phải công thức nhân quả để dự đoán từng bể."
+      },
+      {
+        "id": "VAAS-COST",
+        "topic": "lợi nhuận chi phí thức ăn giá bán diện tích bể",
+        "text": "Báo cáo ghi nhận chi phí, doanh thu và lợi nhuận khác nhau giữa các hộ. Kết quả phân tích xem xét FCR, giá bán và diện tích bể trong tương quan với lợi nhuận. Số trung bình của nghiên cứu năm 2016 không được sử dụng trực tiếp làm giá hiện hành hay kế hoạch nuôi cho mọi địa điểm."
+      },
+      {
+        "id": "VAAS-RISK",
+        "topic": "con giống thức ăn dịch bệnh khó khăn",
+        "text": "Tác giả nêu các trở ngại liên quan đến chất lượng con giống, nguồn thức ăn và dịch bệnh trong mô hình được khảo sát. Báo cáo không cung cấp quy trình chẩn đoán hay phác đồ điều trị cho một bể có dấu hiệu bất thường."
+      }
+    ]
+  },
+  {
+    "id": "JFS-2018",
+    "species_id": "monopterus_albus",
+    "title": "Ảnh hưởng của thức ăn đến sinh trưởng và tỷ lệ sống của lươn 40 ngày tuổi ương trong bể không bùn",
+    "authors": "Lương Công Trung; Nguyễn Trung",
+    "year": 2018,
+    "url": "https://jfst.vn/index.php/ntu/article/view/449",
+    "context": "Thử nghiệm lươn giai đoạn 3–40 ngày tuổi; không phải toàn bộ chu kỳ thương phẩm.",
+    "passages": [
+      {
+        "id": "JFS-NURSERY",
+        "topic": "thức ăn lươn giống trùn chỉ moina cám viên ương",
+        "text": "Thí nghiệm về thức ăn được thực hiện trên lươn giai đoạn đầu đời, từ 3 đến 40 ngày tuổi. Các nghiệm thức thức ăn cho kết quả tăng trưởng và tỷ lệ sống khác nhau. Trong điều kiện nghiên cứu, tổ hợp trùn chỉ với moina hoặc thức ăn viên cho một số kết quả thuận lợi tùy giai đoạn ương."
+      },
+      {
+        "id": "JFS-SCOPE",
+        "topic": "lươn trưởng thành thương phẩm khẩu phần thức ăn ương giới hạn",
+        "text": "Kết quả thí nghiệm ương lươn đến 40 ngày tuổi không thể được coi là khuyến nghị khẩu phần, liều cho ăn hay lịch nuôi cho lươn thương phẩm lớn. Cần dữ liệu và quy trình chuyên biệt cho giai đoạn phát triển, hệ thống nuôi và điều kiện cụ thể."
+      }
+    ]
+  },
+  {
+    "id": "CTU-2026",
+    "species_id": "monopterus_albus",
+    "title": "Ảnh hưởng của chu kỳ tắt sục khí đến oxy, tăng trưởng và tỷ lệ sống lươn đồng trong hệ thống tuần hoàn",
+    "authors": "Nguyễn Văn Triều; Nguyễn Chí Đức; Võ Hoàng Liêm Đức Tâm",
+    "year": 2026,
+    "url": "https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/8459",
+    "context": "Thí nghiệm hệ thống tuần hoàn nước RAS và sục khí ở bộ lọc sinh học; không đại diện cho mọi bể không bùn.",
+    "passages": [
+      {
+        "id": "CTU-AERATION",
+        "topic": "sục khí oxy hòa tan RAS hệ thống tuần hoàn chu kỳ",
+        "text": "Nghiên cứu so sánh các chu kỳ bật/tắt sục khí trong hệ thống lọc sinh học của mô hình nuôi lươn tuần hoàn. Trong điều kiện thí nghiệm, chu kỳ 1 giờ bật và 1 giờ tắt đạt kết quả thuận lợi hơn những chế độ được so sánh. Không suy rộng cài đặt này thành lịch vận hành an toàn cho mọi bể không bùn."
+      },
+      {
+        "id": "CTU-WATER",
+        "topic": "chất lượng nước oxy hòa tan đo nước ao bể quản lý môi trường",
+        "text": "Nghiên cứu kiểm tra biến động oxy hòa tan cùng tăng trưởng và tỷ lệ sống trong hệ thống RAS. Việc diễn giải một số đo oxy tại bể thực tế còn phụ thuộc vị trí, thời điểm, thiết bị và cấu hình hệ thống; bài báo không chứng minh một giá trị ngưỡng phổ quát cho tất cả mô hình nuôi."
+      }
+    ]
+  },
+  {
+    "id": "CT-2024-2026",
+    "species_id": "monopterus_albus",
+    "title": "Phân tích khía cạnh kỹ thuật và tài chính của mô hình nuôi lươn thương phẩm trong bể không bùn",
+    "authors": "Châu Quốc Mộng; Cao Quốc Nam",
+    "year": 2024,
+    "url": "https://nckh.tapchicongthuong.vn/j/nckh/articles/2113?lang=vi-VN",
+    "context": "Khảo sát 138 hộ ở Hậu Giang năm 2022; tạp chí ghi số phát hành 2024, trang điện tử xuất bản năm 2026.",
+    "passages": [
+      {
+        "id": "CT-PROFIT",
+        "topic": "lợi nhuận giá bán thức ăn cỡ thu hoạch chi phí thời gian kinh nghiệm",
+        "text": "Khảo sát 138 hộ nuôi lươn thương phẩm trong bể không bùn ở Hậu Giang cho thấy chi phí thức ăn, giá bán, cỡ thu hoạch, thời gian nuôi, diện tích bể và kinh nghiệm người nuôi liên hệ có ý nghĩa thống kê với lợi nhuận. Các mối liên hệ hồi quy không tự chứng minh rằng thay đổi một yếu tố sẽ trực tiếp gây ra mức lợi nhuận mới."
+      },
+      {
+        "id": "CT-PLANNING",
+        "topic": "mô phỏng kịch bản kinh tế FCR giá bán hòa vốn hoạch định",
+        "text": "Báo cáo kinh tế trên 138 hộ cung cấp cơ sở lựa chọn các biến cần theo dõi khi lập kịch bản kinh tế cho nuôi lươn bể không bùn, như chi phí thức ăn và giá bán. Tuy nhiên để tính kết quả cho từng vụ, AquaDecision vẫn phải dùng số liệu người nuôi nhập và giả định có ghi nhãn; không dùng trị số trung bình của bài báo làm dự báo cá thể."
+      }
+    ]
+  },
+  {
+    "id": "FISHBASE-REPRO",
+    "species_id": "monopterus_albus",
+    "title": "FishBase: Reproduction of Monopterus albus",
+    "authors": "FishBase (species reproduction summary)",
+    "year": 2026,
+    "url": "https://www.fishbase.org/Reproduction/FishReproSummary.php?GenusName=Monopterus&ID=4663&SpeciesName=albus&StockCode=4880&fc=262",
+    "context": "Tổng hợp sinh học sinh sản loài Monopterus albus; không phải quy trình kỹ thuật cho mọi cơ sở nuôi. Năm 2026 là năm truy cập cơ sở dữ liệu, không phải năm xuất bản riêng của tóm tắt FishBase.",
+    "category": "reproduction",
+    "passages": [
+      {
+        "id": "FB-SEX",
+        "topic": "lươn đồng sinh sản không đẻ trứng chuyển giới tính cái đực thành thục bố mẹ",
+        "text": "FishBase mô tả Monopterus albus có hiện tượng lưỡng tính kế tiếp theo hướng cái chuyển thành đực (protogyny). Do đó không thể chỉ dựa vào mùa sinh sản hoặc ngoại hình để khẳng định đàn có đủ cá thể đực và cái thành thục."
+      },
+      {
+        "id": "FB-NEST",
+        "topic": "lươn bố mẹ không đẻ làm tổ bọt trứng ghép cặp sinh sản nước nông",
+        "text": "Theo FishBase, con đực làm tổ bọt gần thực vật ven bờ, quá trình sinh sản được ghi nhận ở vùng nước nông và con đực canh giữ trứng. Đây là mô tả tập tính tự nhiên; không chứng minh bể thương phẩm không bùn nào cũng có điều kiện đẻ tương đương."
+      }
+    ]
+  },
+  {
+    "id": "JJI-1997",
+    "species_id": "monopterus_albus",
+    "title": "Paternal egg guarding and mouthbrooding in the bubble nest in the swamp-eel, Monopterus albus",
+    "authors": "Seiji Matsumoto; Katsuya Iwata",
+    "year": 1997,
+    "url": "https://www.jstage.jst.go.jp/article/jji1950/44/1/44_1_35/_article/-char/en",
+    "context": "Quan sát tập tính bảo vệ trứng trong bể quan sát; không phải khuyến cáo thiết kế bể sinh sản đại trà.",
+    "category": "reproduction",
+    "passages": [
+      {
+        "id": "JJI-NEST",
+        "topic": "lươn không sinh sản không đẻ trứng tổ bọt ống trú ẩn ghép cặp sinh sản",
+        "text": "Trong quan sát của Matsumoto và Iwata (1997), lươn đực chăm sóc trứng trong tổ bọt ở ống nhựa. Nghiên cứu mô tả tập tính làm tổ, bảo vệ trứng và cá bột; chưa đủ để suy ra thông số kích thích đẻ tối ưu cho mọi bể nuôi."
+      },
+      {
+        "id": "JJI-HATCH",
+        "topic": "trứng lươn ấp nở sinh sản bố mẹ chăm sóc trứng con giống",
+        "text": "Nghiên cứu quan sát trứng lươn nở sau khoảng 7–8 ngày trong điều kiện được theo dõi; lươn đực chăm sóc trứng và con non. Thời gian này là quan sát trong nghiên cứu, không bảo đảm cho các điều kiện nuôi khác."
+      }
+    ]
+  },
+  {
+    "id": "APST-2017",
+    "species_id": "monopterus_albus",
+    "title": "Reproductive biology and preliminary propagation of swamp eel by natural spawning in concrete ponds",
+    "authors": "Wirat Jiwyam",
+    "year": 2017,
+    "url": "https://so01.tci-thaijo.org/index.php/APST/article/view/83734",
+    "context": "Nghiên cứu sinh sản tự nhiên trong ao bê tông bằng lươn bố mẹ, trang công bố 2017, số tạp chí gốc ghi 2008. Tỷ lệ ghép và thời gian theo thí nghiệm không phải công thức chung cho bể thương phẩm.",
+    "category": "reproduction",
+    "passages": [
+      {
+        "id": "APST-BREED",
+        "topic": "lươn sinh sản không đẻ mùa đẻ lươn bố mẹ ghép đực cái điều kiện ao bể bê tông",
+        "text": "Nghiên cứu Jiwyam cho thấy lươn có thể sinh sản tự nhiên trong ao bê tông khi sử dụng đàn bố mẹ đã tuyển chọn; bài báo khảo sát biến động thành thục sinh dục và ghi nhận sinh sản ở nghiệm thức ghép đực:cái 1:3. Đó là điều kiện thí nghiệm, không phải tỷ lệ khuyến cáo cho mọi trại."
+      },
+      {
+        "id": "APST-MATURITY",
+        "topic": "lươn sinh sản chưa đẻ thành thục tuyến sinh dục cá bố mẹ mùa đẻ",
+        "text": "Trong nghiên cứu Jiwyam, chỉ số tuyến sinh dục GSI thay đổi theo thời gian trong năm; GSI cao nhất vào tháng 4–5 trong điều kiện khảo sát. Vì vậy lịch mùa không đủ để xác định một cá thể đã sẵn sàng sinh sản."
+      }
+    ]
+  },
+  {
+    "id": "FRONTIERS-2022",
+    "species_id": "monopterus_albus",
+    "title": "Chromosome-Scale, Haplotype-Resolved Genome Assembly of Non-Sex-Reversal Females of Swamp Eel Using High-Fidelity Long Reads and Hi-C Data",
+    "authors": "Hai-Feng Tian; Qiaomu Hu; Hong-Yi Lu; Zhong Li",
+    "year": 2022,
+    "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.903185/full",
+    "context": "Nghiên cứu di truyền và giới tính; dẫn chứng đặc điểm sinh học chuyển giới tính, không phải phác đồ kích thích lươn đẻ.",
+    "category": "reproduction",
+    "passages": [
+      {
+        "id": "FRON-SEX",
+        "topic": "lươn sinh sản không đẻ trứng lươn cái lươn đực chuyển giới tính thành thục",
+        "text": "Nghiên cứu năm 2022 mô tả Monopterus albus phát triển chức năng sinh sản ban đầu như con cái và một số cá thể chuyển thành đực về sau. Vì vậy việc xác định đúng trạng thái thành thục và cấu trúc giới tính đàn bố mẹ là vấn đề cần khảo sát khi lươn không đẻ; chỉ nhìn kích thước chưa đủ để xác nhận giới tính hoặc mức độ thành thục."
+      }
+    ]
+  }
+]
